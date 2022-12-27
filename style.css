@@ -1,0 +1,37 @@
+.body
+{
+    background-image:"https://static.vecteezy.com/system/resources/thumbnails/005/891/677/small/abstract-arrows-ribbons-crowns-hearts-explosions-and-other-elements-in-hand-drawn-style-for-concept-design-doodle-illustration-template-for-decoration-free-vector.jpg" ;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+
+.note
+{   
+    font-size: 15px;
+    color: black;
+    background-color: white;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
